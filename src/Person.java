@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
-
 public class Person {
+    String name;
+    String surname;
+
+
+
 }
